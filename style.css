@@ -201,3 +201,13 @@ transition:.3s;
 .btn:hover{
 opacity:.9;
 }
+.logo{
+    display:flex;
+    align-items:center;
+    gap:15px;
+}
+
+.logo img{
+    height:60px;
+    width:auto;
+}

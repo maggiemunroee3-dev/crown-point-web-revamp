@@ -153,3 +153,51 @@ background:white;
 text-align:center;
 margin-bottom:20px;
 }
+.cta{
+background:#0d47a1;
+color:white;
+text-align:center;
+padding:80px 20px;
+}
+
+.cta h2{
+font-size:2.5rem;
+margin-bottom:20px;
+}
+
+.cta p{
+max-width:700px;
+margin:0 auto 30px auto;
+}
+
+footer{
+background:#111;
+color:white;
+text-align:center;
+padding:40px 20px;
+margin-top:0;
+}
+
+footer h3{
+margin-bottom:15px;
+}
+
+footer p{
+margin:10px 0;
+}
+
+.btn{
+background:#0d47a1;
+color:white;
+padding:18px 40px;
+display:inline-block;
+text-decoration:none;
+border-radius:8px;
+font-weight:bold;
+font-size:18px;
+transition:.3s;
+}
+
+.btn:hover{
+opacity:.9;
+}
